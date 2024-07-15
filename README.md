@@ -23,4 +23,4 @@ This is a simple weather application that allows users to search for the current
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/weather-app.git
+   https://github.com/Ramendra777/Weather-app.git
